@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnipMan", "SnipMan\SnipMan.csproj", "{46BCB5BF-B8C8-4769-84FD-DC22213CB5CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46BCB5BF-B8C8-4769-84FD-DC22213CB5CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BCB5BF-B8C8-4769-84FD-DC22213CB5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BCB5BF-B8C8-4769-84FD-DC22213CB5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BCB5BF-B8C8-4769-84FD-DC22213CB5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
